@@ -1,4 +1,4 @@
-# bookMark
+# BookMark
 Bookmark application
 
 # 1. Who is it for? 
@@ -22,10 +22,11 @@ at your browser(can use at public computer, so  an account is needed). It also i
 - you can share your pin with your friends.
 - search word, or phrase; 
 - saves a previous session;
-- organize our bookmarks: folders, descriptions, pictures;
+- organize bookmarks: folders, descriptions, pictures;
 - remove a bookmark;
 
 # 4. Tools: 
 - JavaScript;
 - CSS;
 - HTML;
+
